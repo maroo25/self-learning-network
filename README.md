@@ -1,5 +1,3 @@
-# self-learning-network
-
 # 모두의 네트워크 
 매주 목 오후9시반 디스코드 모임
 
